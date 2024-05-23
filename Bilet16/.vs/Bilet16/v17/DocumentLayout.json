@@ -1,0 +1,678 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B17BB42D-155A-4B30-A57C-9E5C87F62158}|Data\\Data.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17BB42D-155A-4B30-A57C-9E5C87F62158}|Data\\Data.csproj|solutionrelative:data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\bilet16\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|solutionrelative:bilet16\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\bilet16\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|solutionrelative:bilet16\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\bilet16\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|solutionrelative:bilet16\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\bilet16\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|solutionrelative:bilet16\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\bilet16\\areas\\admin\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|solutionrelative:bilet16\\areas\\admin\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\bilet16\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|solutionrelative:bilet16\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\bilet16\\dto\u0027s\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|solutionrelative:bilet16\\dto\u0027s\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\bilet16\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|solutionrelative:bilet16\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\bilet16\\dto\u0027s\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|solutionrelative:bilet16\\dto\u0027s\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\bilet16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|solutionrelative:bilet16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5E6BEF-B610-470F-A827-2B88B69C98AB}|Core\\Core.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5E6BEF-B610-470F-A827-2B88B69C98AB}|Core\\Core.csproj|solutionrelative:core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\bilet16\\areas\\admin\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|solutionrelative:bilet16\\areas\\admin\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\bilet16\\areas\\admin\\views\\team\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|solutionrelative:bilet16\\areas\\admin\\views\\team\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5E6BEF-B610-470F-A827-2B88B69C98AB}|Core\\Core.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\core\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5E6BEF-B610-470F-A827-2B88B69C98AB}|Core\\Core.csproj|solutionrelative:core\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70505147-E90F-4288-BEE4-857838C8C6B8}|Business\\Business.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\business\\services\\concretes\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70505147-E90F-4288-BEE4-857838C8C6B8}|Business\\Business.csproj|solutionrelative:business\\services\\concretes\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\bilet16\\areas\\admin\\views\\team\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|solutionrelative:bilet16\\areas\\admin\\views\\team\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\bilet16\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|solutionrelative:bilet16\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\bilet16\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|solutionrelative:bilet16\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\bilet16\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|solutionrelative:bilet16\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\bilet16\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|solutionrelative:bilet16\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\bilet16\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|solutionrelative:bilet16\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\bilet16\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|solutionrelative:bilet16\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70505147-E90F-4288-BEE4-857838C8C6B8}|Business\\Business.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\business\\exceptions\\filenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70505147-E90F-4288-BEE4-857838C8C6B8}|Business\\Business.csproj|solutionrelative:business\\exceptions\\filenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70505147-E90F-4288-BEE4-857838C8C6B8}|Business\\Business.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\business\\exceptions\\teamnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70505147-E90F-4288-BEE4-857838C8C6B8}|Business\\Business.csproj|solutionrelative:business\\exceptions\\teamnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70505147-E90F-4288-BEE4-857838C8C6B8}|Business\\Business.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\business\\exceptions\\filesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70505147-E90F-4288-BEE4-857838C8C6B8}|Business\\Business.csproj|solutionrelative:business\\exceptions\\filesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70505147-E90F-4288-BEE4-857838C8C6B8}|Business\\Business.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\business\\exceptions\\contenttypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70505147-E90F-4288-BEE4-857838C8C6B8}|Business\\Business.csproj|solutionrelative:business\\exceptions\\contenttypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70505147-E90F-4288-BEE4-857838C8C6B8}|Business\\Business.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\business\\exceptions\\photofilenullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70505147-E90F-4288-BEE4-857838C8C6B8}|Business\\Business.csproj|solutionrelative:business\\exceptions\\photofilenullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70505147-E90F-4288-BEE4-857838C8C6B8}|Business\\Business.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\business\\exceptions\\teamnullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70505147-E90F-4288-BEE4-857838C8C6B8}|Business\\Business.csproj|solutionrelative:business\\exceptions\\teamnullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17BB42D-155A-4B30-A57C-9E5C87F62158}|Data\\Data.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\data\\repositoryconcretes\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17BB42D-155A-4B30-A57C-9E5C87F62158}|Data\\Data.csproj|solutionrelative:data\\repositoryconcretes\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17BB42D-155A-4B30-A57C-9E5C87F62158}|Data\\Data.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17BB42D-155A-4B30-A57C-9E5C87F62158}|Data\\Data.csproj|solutionrelative:data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5E6BEF-B610-470F-A827-2B88B69C98AB}|Core\\Core.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5E6BEF-B610-470F-A827-2B88B69C98AB}|Core\\Core.csproj|solutionrelative:core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5E6BEF-B610-470F-A827-2B88B69C98AB}|Core\\Core.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\core\\repositoryabstracts\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5E6BEF-B610-470F-A827-2B88B69C98AB}|Core\\Core.csproj|solutionrelative:core\\repositoryabstracts\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70505147-E90F-4288-BEE4-857838C8C6B8}|Business\\Business.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\business\\services\\abstracts\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70505147-E90F-4288-BEE4-857838C8C6B8}|Business\\Business.csproj|solutionrelative:business\\services\\abstracts\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Data\\Migrations\\20240523055740_createTeamsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20240523055740_createTeamsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\bilet16\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|solutionrelative:bilet16\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5E6BEF-B610-470F-A827-2B88B69C98AB}|Core\\Core.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5E6BEF-B610-470F-A827-2B88B69C98AB}|Core\\Core.csproj|solutionrelative:core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|c:\\users\\asime\\desktop\\bilet\\bilet16\\bilet16\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90CA750B-9EE7-460E-9730-C4D6474713D6}|Bilet16\\Bilet16.csproj|solutionrelative:bilet16\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Bilet16\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Bilet16\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAADoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T07:20:23.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Bilet16\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Bilet16\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:19:14.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Bilet16\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Bilet16\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:29:49.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Areas\\Admin\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "Bilet16\\Areas\\Admin\\Controllers\\TeamController.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Areas\\Admin\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "Bilet16\\Areas\\Admin\\Controllers\\TeamController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:34:44.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bilet16\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Bilet16\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAGkBAAAAAAAAAAAAAIQBAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T05:45:42.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Bilet16\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Bilet16\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:47:34.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:54:17.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\DTO\u0027s\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Bilet16\\DTO\u0027s\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\DTO\u0027s\\LoginDto.cs",
+              "RelativeToolTip": "Bilet16\\DTO\u0027s\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:17:29.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Bilet16\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Bilet16\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAEEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T07:20:42.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\DTO\u0027s\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Bilet16\\DTO\u0027s\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\DTO\u0027s\\RegisterDto.cs",
+              "RelativeToolTip": "Bilet16\\DTO\u0027s\\RegisterDto.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAB8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:14:12.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Core\\Models\\User.cs",
+              "RelativeToolTip": "Core\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:09:02.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Areas\\Admin\\Views\\Team\\Update.cshtml",
+              "RelativeDocumentMoniker": "Bilet16\\Areas\\Admin\\Views\\Team\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Areas\\Admin\\Views\\Team\\Update.cshtml",
+              "RelativeToolTip": "Bilet16\\Areas\\Admin\\Views\\Team\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T07:00:49.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Areas\\Admin\\Views\\Team\\Create.cshtml",
+              "RelativeDocumentMoniker": "Bilet16\\Areas\\Admin\\Views\\Team\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Areas\\Admin\\Views\\Team\\Create.cshtml",
+              "RelativeToolTip": "Bilet16\\Areas\\Admin\\Views\\Team\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T06:45:56.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Areas\\Admin\\Views\\Team\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bilet16\\Areas\\Admin\\Views\\Team\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Areas\\Admin\\Views\\Team\\Index.cshtml",
+              "RelativeToolTip": "Bilet16\\Areas\\Admin\\Views\\Team\\Index.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T06:35:41.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TeamService.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Business\\Services\\Concretes\\TeamService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Concretes\\TeamService.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Business\\Services\\Concretes\\TeamService.cs",
+              "RelativeToolTip": "Business\\Services\\Concretes\\TeamService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:06:10.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Program.cs",
+              "RelativeDocumentMoniker": "Bilet16\\Program.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Program.cs",
+              "RelativeToolTip": "Bilet16\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:56:27.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bilet16\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Bilet16\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T06:29:56.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Bilet16\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Bilet16\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAIkBAAAAAAAAAAAuwJ0BAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T06:30:19.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Core\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Core\\Models\\Team.cs",
+              "RelativeToolTip": "Core\\Models\\Team.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:50:03.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Bilet16\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Bilet16\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T06:30:44.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Bilet16\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Bilet16\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T06:30:30.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Bilet16\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Bilet16\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T05:47:28.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Bilet16\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Bilet16\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-23T06:28:35.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FileNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Business\\Exceptions\\FileNotFoundException.cs",
+              "RelativeDocumentMoniker": "Business\\Exceptions\\FileNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Business\\Exceptions\\FileNotFoundException.cs",
+              "RelativeToolTip": "Business\\Exceptions\\FileNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:23:32.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TeamNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Business\\Exceptions\\TeamNotFoundException.cs",
+              "RelativeDocumentMoniker": "Business\\Exceptions\\TeamNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Business\\Exceptions\\TeamNotFoundException.cs",
+              "RelativeToolTip": "Business\\Exceptions\\TeamNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:21:20.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FileSizeException.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Business\\Exceptions\\FileSizeException.cs",
+              "RelativeDocumentMoniker": "Business\\Exceptions\\FileSizeException.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Business\\Exceptions\\FileSizeException.cs",
+              "RelativeToolTip": "Business\\Exceptions\\FileSizeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:16:20.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ContentTypeException.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Business\\Exceptions\\ContentTypeException.cs",
+              "RelativeDocumentMoniker": "Business\\Exceptions\\ContentTypeException.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Business\\Exceptions\\ContentTypeException.cs",
+              "RelativeToolTip": "Business\\Exceptions\\ContentTypeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:14:49.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PhotoFileNullException.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Business\\Exceptions\\PhotoFileNullException.cs",
+              "RelativeDocumentMoniker": "Business\\Exceptions\\PhotoFileNullException.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Business\\Exceptions\\PhotoFileNullException.cs",
+              "RelativeToolTip": "Business\\Exceptions\\PhotoFileNullException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:12:56.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TeamNullException.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Business\\Exceptions\\TeamNullException.cs",
+              "RelativeDocumentMoniker": "Business\\Exceptions\\TeamNullException.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Business\\Exceptions\\TeamNullException.cs",
+              "RelativeToolTip": "Business\\Exceptions\\TeamNullException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:11:09.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TeamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Data\\RepositoryConcretes\\TeamRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoryConcretes\\TeamRepository.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Data\\RepositoryConcretes\\TeamRepository.cs",
+              "RelativeToolTip": "Data\\RepositoryConcretes\\TeamRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:08:04.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ITeamService.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Business\\Services\\Abstracts\\ITeamService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Abstracts\\ITeamService.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Business\\Services\\Abstracts\\ITeamService.cs",
+              "RelativeToolTip": "Business\\Services\\Abstracts\\ITeamService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:04:46.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:00:41.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ITeamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Core\\RepositoryAbstracts\\ITeamRepository.cs",
+              "RelativeDocumentMoniker": "Core\\RepositoryAbstracts\\ITeamRepository.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Core\\RepositoryAbstracts\\ITeamRepository.cs",
+              "RelativeToolTip": "Core\\RepositoryAbstracts\\ITeamRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:00:02.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeToolTip": "Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:58:24.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240523055740_createTeamsTable.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Data\\Migrations\\20240523055740_createTeamsTable.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240523055740_createTeamsTable.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Data\\Migrations\\20240523055740_createTeamsTable.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240523055740_createTeamsTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:57:41.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\appsettings.json",
+              "RelativeDocumentMoniker": "Bilet16\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\appsettings.json",
+              "RelativeToolTip": "Bilet16\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T05:55:06.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:49:29.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Bilet16\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Bilet\\Bilet16\\Bilet16\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Bilet16\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T05:44:27.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
